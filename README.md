@@ -27,7 +27,7 @@ INVENTARIO_VMWARE/
 
 ## ⚙️ Requisitos
 
-- Python 3.10+
+- Python 3.13+
 - Node.js 18+
 - Acceso a un servidor vCenter
 - pip, uvicorn, virtualenv, etc.
